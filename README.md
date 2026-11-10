@@ -1,1 +1,1 @@
-# doctor-service
+# appointment-service
